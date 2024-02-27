@@ -40,10 +40,10 @@
             <div class="row">
                 <div class="col-6 mt-4">
                     <address>
-                        <strong>Easy Shopping Mall:</strong><br>
-                        Purana Palton Dhaka<br>
-                        support@easylearningbd.com
-                    </address>
+                        <strong>Inventory Shop:</strong><br>
+                        Dhaka Bangladesh<br>
+                        shaonsarker92@gmail.com
+                     </address>
                 </div>
                 <div class="col-6 mt-4 text-end">
                     <address>
