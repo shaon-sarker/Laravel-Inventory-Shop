@@ -74,7 +74,7 @@ class UnitController extends Controller
 
     public function UnitDelete($id){
 
-          Unit::findOrFail($id)->delete();
+       Unit::findOrFail($id)->delete();
       
        $notification = array(
             'message' => 'Unit Deleted Successfully', 
